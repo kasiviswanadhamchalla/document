@@ -6,13 +6,6 @@
 
 ---
 
-## 📑 Generated PDF Reports
-- 📄 **Executive Capstone PDF Report**: [EcoExchange_Single_Command_Launcher_Report.pdf](file:///c:/Users/kasiv/OneDrive/Desktop/ecoexchange/docs/EcoExchange_Single_Command_Launcher_Report.pdf)
-- 📄 **Technical Guide PDF**: [EcoExchange_Single_Command_Launcher_Guide.pdf](file:///c:/Users/kasiv/OneDrive/Desktop/ecoexchange/docs/EcoExchange_Single_Command_Launcher_Guide.pdf)
-- 🌐 **HTML Document Template**: [EcoExchange_Single_Command_Launcher_Report.html](file:///c:/Users/kasiv/OneDrive/Desktop/ecoexchange/docs/EcoExchange_Single_Command_Launcher_Report.html)
-
----
-
 ## 1. Executive Summary & Architecture Overview
 
 **EcoExchange** is an enterprise cloud-native B2B digital marketplace designed to enable industrial waste producers and recyclers to trade scrap materials and calculate carbon emissions offset. The platform consists of **9 decoupled microservices**:
